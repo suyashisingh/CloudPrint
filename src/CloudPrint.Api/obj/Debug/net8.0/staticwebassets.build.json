@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "QresQVhFlbq1iTTBetVq++N8Lf7lXUVK1pDH+7oWA+g=",
+  "Source": "CloudPrint.Api",
+  "BasePath": "_content/CloudPrint.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

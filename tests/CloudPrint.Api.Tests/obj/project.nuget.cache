@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "6n8QXmUJHzk=",
+  "success": false,
+  "projectFilePath": "D:\\CloudPrint\\tests\\CloudPrint.Api.Tests\\CloudPrint.Api.Tests.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "libraryId": "coverlet.collector"
+    }
+  ]
+}

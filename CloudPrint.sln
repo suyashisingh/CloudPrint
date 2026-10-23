@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{D3F9C8AD-5DAF-4111-B5ED-1564E9F8E606}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudPrint.Api", "src\CloudPrint.Api\CloudPrint.Api.csproj", "{167AF464-B313-4BB3-9436-B638C4EDB9F8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{C287D72B-656A-4287-81D3-CB2984E71896}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudPrint.Api.Tests", "tests\CloudPrint.Api.Tests\CloudPrint.Api.Tests.csproj", "{B293DC6A-7DCB-4C8D-AEEF-55C0BE60D350}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{167AF464-B313-4BB3-9436-B638C4EDB9F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{167AF464-B313-4BB3-9436-B638C4EDB9F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{167AF464-B313-4BB3-9436-B638C4EDB9F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{167AF464-B313-4BB3-9436-B638C4EDB9F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B293DC6A-7DCB-4C8D-AEEF-55C0BE60D350}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B293DC6A-7DCB-4C8D-AEEF-55C0BE60D350}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B293DC6A-7DCB-4C8D-AEEF-55C0BE60D350}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B293DC6A-7DCB-4C8D-AEEF-55C0BE60D350}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{167AF464-B313-4BB3-9436-B638C4EDB9F8} = {D3F9C8AD-5DAF-4111-B5ED-1564E9F8E606}
+		{B293DC6A-7DCB-4C8D-AEEF-55C0BE60D350} = {C287D72B-656A-4287-81D3-CB2984E71896}
+	EndGlobalSection
+EndGlobal
